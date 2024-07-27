@@ -1,0 +1,3 @@
+sudo make build
+sudo make up
+sudo make username
